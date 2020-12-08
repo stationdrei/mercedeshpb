@@ -45,7 +45,7 @@
       <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
     </hotspots>
     <media>
-      <sound loop="1" mode="3" level="1.000" tiltsize="15.000" nodechangekeep="0" pansize="78.000" id="Element01" pan="-1.560" ambientlevel="0.000" tilt="-13.030" startmutedmobile="0" field="72.000">
+      <sound loop="0" mode="3" level="1.000" tiltsize="15.000" nodechangekeep="0" pansize="78.000" id="Element01" pan="-1.560" ambientlevel="0.000" tilt="-13.030" startmutedmobile="0" field="72.000">
         <source url="media/Sunset Dream - Cheel.mp3"/>
       </sound>
     </media>
