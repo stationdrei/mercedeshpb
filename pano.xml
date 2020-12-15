@@ -11,8 +11,8 @@
     <view fovmode="0" pannorth="0">
       <start projection="4" pan="0" tilt="0" fov="76.32"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovstereographic="270" pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
+      <min pan="-89.74" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="103.8" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
     <userdata longitude="" description="" author="" copyright="" comment="" nodeid="node2" heading="0" tags="Pano2VR6" title="" datetime="" latitude="" customnodeid="" info="" source=""/>
     <hotspots width="180" wordwrap="1" height="20">
