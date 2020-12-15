@@ -43,7 +43,7 @@
     <hotspots width="180" wordwrap="1" height="20">
       <label backgroundalpha="1" background="1" backgroundcolor="0xffffff" width="180" textcolor="0x000000" wordwrap="1" enabled="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000" height="20" border="1"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot description="" id="Point01" pan="-359.62" url="media/Hpb Gold-1.m4v" tilt="-6.24" target="" skinid="ht_video_file" title="Grüße von station3 Team"/>
+      <hotspot description="" id="Point01" pan="-359.62" url="media/Hpb Gold-1.m4v" tilt="-6.24" target="" skinid="ht_video_file" title="Grüße vom station3-Team"/>
     </hotspots>
     <media>
       <video nodechangekeep="0" height="480" rotz="0.000" handcursor="0" pan="354.450" width="480" id="Robot_Player" tiltsize="10.000" loop="0" fov="20.630" level="1.000" field="90.000" rotx="0.000" ambientlevel="0.000" clickmode="0" startmutedmobile="1" stretch="1.000" pansize="10.000" roty="0.000" mode="3" tilt="-9.070">
